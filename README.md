@@ -1,6 +1,6 @@
 # takeaway
 
-> takeaway app
+> takeaway app(https://camille0918.github.io/vue_app/dist/index.html#/goods)
 
 ## Build Setup
 
