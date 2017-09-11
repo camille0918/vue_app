@@ -13,7 +13,7 @@
 ``` bash
 
 # 克隆项目到本地
-git clone https://github.com/JerryYgh/m-eleme.git
+git clone https://github.com/camille0918/vue_app.git
 # 安装依赖
 npm install
 # 本地开发，开启服务器，浏览器访问http://localhost:8080
