@@ -2,7 +2,7 @@
 
 <ol>
 <li>takeaway app(https://camille0918.github.io/vue_app/dist/index.html#/goods)</li>
-<li>由于是node模拟的数据，没有上传到服务器。所以打开的静态页面是获取不到数据的</li>
+<li>由于是node模拟的数据，没有上传到服务器。所以打开的静态页面获取不到数据</li>
 <li>仿饿了么app是基于vue2.x最新实战项目，用到的技术栈：<br/>
   <span>vue2 + vue-router2 + vue-cli2 + vue-resource + stylus + flex布局 + es6 + eslint + webpack2</span>
 </li>
