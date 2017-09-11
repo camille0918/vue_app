@@ -1,6 +1,7 @@
 # takeaway
 
 > takeaway app(https://camille0918.github.io/vue_app/dist/index.html#/goods)
+> 由于是node模拟的数据，没有上传到服务器。所以打开的静态页面是获取不到数据的
 
 ## Build Setup
 
