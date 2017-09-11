@@ -31,4 +31,3 @@ node prod.server.js
   <li>transition书写格式不在是在元素标签上写，而是作为一个标签<transition></transition>将目标元素包起来,过渡状态变为4种状态</li>
   <li>v-el 和 v-ref 都弃用，改为使用ref属性为元素或组件添加标记，通过$refs获取</li>
 </ul>
-
